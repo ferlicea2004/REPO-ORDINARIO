@@ -1,0 +1,30 @@
+.DS_Store
+Thumbs.db
+
+# Android / Android Studio
+*.iml
+/.idea
+/.gradle
+/build
+**/build/
+/local.properties
+.gradle/
+gradle-wrapper.jar
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+dist/
+/.expo/
+web-build/
+
+# Editors
+.vscode/
+
+# Env files
+.env
+.env.*
